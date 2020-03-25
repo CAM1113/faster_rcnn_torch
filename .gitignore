@@ -1,1 +1,3 @@
-VOCdevkit
+VOCdevkit/VOC2007/Annotations
+VOCdevkit/VOC2007/ImageSets
+VOCdevkit/VOC2007/JPEGImages
